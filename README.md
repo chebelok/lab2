@@ -13,6 +13,10 @@ To run this project you need to have Docker and TypeScript
 ```
   cd /lab2
 ```
+4. Istall dependencies
+```
+npm i
+```
 3. Build the Docker image
 ```
   docker-compose build
